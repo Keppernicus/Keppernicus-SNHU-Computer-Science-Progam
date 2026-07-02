@@ -1,4 +1,8 @@
-# Computer Science ePortfolio
+---
+theme: jekyll-theme-tactile
+title: Keppernicus' SNHU Computer Science ePortfolio
+description: 
+---
 
 Welcome to my ePortfolio. This site showcases work from the SNHU
 Computer Science program, with enhancements across software design
